@@ -25,4 +25,4 @@ A simple implementation of the classic Minesweeper game using JavaFX. The game f
 ### How to Run
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/minesweeper-game.git
+   git clone https://github.com/chanonpu/MineSweeperGame.git
